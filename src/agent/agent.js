@@ -20,7 +20,7 @@ const MAX_BAD_REPLIES = 4;
 const MAX_REPEATS = 3;
 const RESULT_LIMIT = 3000;
 const HISTORY_WINDOW = 14;
-
+ 
 const TOOLS = [
   "navigate",
 
